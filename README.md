@@ -65,19 +65,21 @@ For TCP connection:
  python3 TCP_User.py
 ```
 
-## Illustration
+## Demo
 
-Server side
+* Server side
+
 <img width="647" alt="Screenshot 2023-03-13 at 13 47 09" src="https://user-images.githubusercontent.com/72256735/224776912-0a8e1836-d65d-45d2-bff4-1b9dd9fbefc8.png">
 
-User side
+* User side
+
 <img width="632" alt="Screenshot 2023-03-13 at 13 46 22" src="https://user-images.githubusercontent.com/72256735/224777086-7e606193-6c3b-4a23-b1fb-cdc114dc34a7.png">
 
 
 Made by
-
 * [Itamar Kuznitsov](https://github.com/Itamar-Kuznitsov)
-* Shachar Kenz
+* [Shachar Kenz]
+
 ## Version
 * 0.1
   * Initial release ~ March 2023
